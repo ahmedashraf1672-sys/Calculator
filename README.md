@@ -2,6 +2,10 @@
 
 A simple calculator application developed using **C#** and **Windows Forms**.
 
+## Screenshot
+
+![Calculator](image/calculator.png)
+
 ## Features
 
 - Addition (+)
